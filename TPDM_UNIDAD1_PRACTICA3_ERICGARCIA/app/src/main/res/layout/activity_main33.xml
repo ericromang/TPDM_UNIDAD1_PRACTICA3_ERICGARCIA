@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:columnCount="2"
+    android:rowCount="6"
+    tools:context=".Main3Activity3">
+
+    <TextView
+        android:layout_rowSpan="1"
+        android:layout_columnSpan="2"
+        android:gravity="center_horizontal"
+        android:text="LENGUAJE APPS"
+        android:textSize="50dp" />
+
+    <TextView
+        android:layout_rowSpan="2"
+        android:layout_columnSpan="2"
+        android:gravity="center_horizontal"
+        android:text="FOR KIDS!"
+        android:textSize="80dp" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/libro" />
+</GridLayout>
